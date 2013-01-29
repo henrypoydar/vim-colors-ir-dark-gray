@@ -148,3 +148,16 @@ hi link htmlEndTag      Identifier
 " Special for Javascript
 hi link javaScriptNumber      Number 
 
+" Special for Markdown
+hi link markdownCodeBlock String
+hi link markdownCode String
+hi link markdownH1 Keyword
+hi link markdownH2 Keyword
+hi link markdownH3 Keyword
+hi link markdownH4 Keyword
+hi link markdownH5 Keyword
+hi link markdownH6 Keyword
+hi link markdownHeadingDelimiter Keyword
+
+
+
